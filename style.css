@@ -3,28 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 h1 {
   color: darkblue;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   text-align: center;
 }
-.about-me,
-.hobbies {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-.about-me h2,
-.hobbies h2 {
-  margin-bottom: 10px;
+
+.personal-info {
+  padding: 0 20px;
 }
 
-.about-me p {
-  margin-bottom: 20px;
-  text-align: justify;
-  font-size: 1.2em;
+h2 {
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
-.hobbies p {
+
+p {
   text-align: justify;
   font-size: 1.2em;
 }
